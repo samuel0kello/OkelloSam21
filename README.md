@@ -8,7 +8,7 @@
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
 
-<a href="https://twitter.com/himanshuchhatw2">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/0kello_sam">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <br>
 
 
@@ -48,8 +48,6 @@
   <a href="https://mobile.twitter.com/0kello_sam">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!-- <a href="https://medium.com/@himanshuchhatwal9295">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a> -->
   <a href="https://hashnode.com/@oSam"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.instagram.com/devsam254/">
@@ -72,7 +70,6 @@
 
              
 </div>
-<br>
 <br>
 
 
