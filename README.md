@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋,<br>I'm Samuel Odhiambo Okello</h1>
+<h1 align="center">Hi 👋,<br>I'm Samuel </h1>
 <h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ ||  || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
 
 
