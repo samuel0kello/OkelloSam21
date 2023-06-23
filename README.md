@@ -5,15 +5,15 @@
 
 
 
-<img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
+<!-- <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif"> -->
 
-
-<a href="https://twitter.com/0kello_sam">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<br>
 <br>
 
 
 
-- 🔭 I’m currently working on **Learning Android  development 📈**
+<br>
+<p>- 🔭 I’m currently working on **Learning Android  development 📈**
 
 - 🌱 I’m currently learning **Kotlin 🤓**
 
@@ -32,24 +32,18 @@
 <br>
 <br>
 <br>
-<h1 align="center"> 🔗 Connect With Me</h1>
+<h1 align="center"> 🔗 Connect with me</h1>
 <div align="center">
-  <a href="mailto:samuelokello929@gmail.com@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/OkelloSam21">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<div id="badges">
-  <a href="https://stackoverflow.com/users/20744874/sam">
+
+<a href="https://twitter.com/0kello_sam">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+
+<a href="https://stackoverflow.com/users/20744874/sam">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+</a> 
   <a href="https://www.linkedin.com/in/samuel-okello">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mobile.twitter.com/0kello_sam">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </a> 
-  <a href="https://hashnode.com/@oSam"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.instagram.com/devsam254/">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
