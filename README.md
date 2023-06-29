@@ -1,56 +1,40 @@
 
-
-<h1 align="center">Hi 👋,<br>I'm Samuel </h1>
-<h3 align="center">ʜᴀʀᴅᴡᴏʀᴋɪɴɢ ꜱᴛᴜᴅᴇɴᴛ || ᴄᴏᴅᴇʀ ||  || ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ</h3>
-
-
-
-<!-- <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif"> -->
-
+<!--
 <br>
-<br>
-
-
-
-<br>
-<p>- 🔭 I’m currently working on **Learning Android  development 📈**
+<p>
 
 - 🌱 I’m currently learning **Kotlin 🤓**
 
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
-- 🤝 I’m looking for help with **Learning Android development**
 
+<br>-->
+### Hi there 👋
+
+[![wakatime](https://wakatime.com/badge/user/ecd44c25-8955-4d16-b1db-344849f2b15c.svg)](https://wakatime.com/@ecd44c25-8955-4d16-b1db-344849f2b15c)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
+[![github](https://img.shields.io/github/followers/OkelloSam21?logo=github&style=plastic)](https://github.com/OkelloSam21?tab=followers)
+
+- 🔭 I’m currently working on [tasty-food](https://github.com/OkelloSam21/tasty-food.git)
+- 💬 Ask me about Go, Python, TypeScript, startups, and bootstrapping
+- 📫 How to reach me: [@0kello_sam](https://www.linkedin.com/in/samuel-okello) on linkedin or [@okellosam](https://twitter.com/0kello_sam) on Twitter
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/OkelloSam21)
 
-- 💬 Ask me about **anything related to college stuff**
-
-- 📫 How to reach me **samuelokello929@gmail.com**
-
 - ⚡ Fun fact **Im a noob**
-<br>
-<br>
-<br>
-<br>
-<h1 align="center"> 🔗 Connect with me</h1>
-<div align="center">
+<!--
+**alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a href="https://twitter.com/0kello_sam">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+Here are some ideas to get you started:
 
-<a href="https://stackoverflow.com/users/20744874/sam">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a> 
-  <a href="https://www.linkedin.com/in/samuel-okello">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</a> 
-  <a href="https://www.instagram.com/devsam254/">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>
-<br>
-<br>
-<br>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <br>
   <h1>🛠️ Languages and Tools :</h1>
 <div align="center">
