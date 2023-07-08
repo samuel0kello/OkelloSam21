@@ -5,18 +5,19 @@
 
 - 🌱 I’m currently learning **Kotlin 🤓**
 
+
 - 👯 I’m looking forward to **make a good team to learn together 📚**
 
 
 <br>-->
 ### Hi there 👋
 - 🔭 I’m currently working on [tasty-food](https://github.com/OkelloSam21/tasty-food.git)
+-  🌱 I’m currently learning **Kotlin 🤓 and Android **
 - 📫 How to reach me: [@0kello_sam](https://www.linkedin.com/in/samuel-okello) on linkedin or [@okellosam](https://twitter.com/0kello_sam) on Twitter
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/OkelloSam21)
 - ⚡ Fun fact **Im a noob**
   <br>
-  <br>  
-
+  <br> 
 [![wakatime](https://wakatime.com/badge/user/ecd44c25-8955-4d16-b1db-344849f2b15c.svg)](https://wakatime.com/@ecd44c25-8955-4d16-b1db-344849f2b15c)
 [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/WakaTime)
 [![github](https://img.shields.io/github/followers/OkelloSam21?logo=github&style=plastic)](https://github.com/OkelloSam21?tab=followers)
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-  <h1>🛠️ Languages and Tools :</h1>
+  <h1>🛠️ Tech Stack :</h1>
 <div align="center">
    <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logo=java&javaColor=yellow"/> 
@@ -50,8 +51,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=OkelloSam21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=OkelloSam21&theme=dark&hide_border=false)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=OkelloSam21&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OkelloSam21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 <br>
 
 
