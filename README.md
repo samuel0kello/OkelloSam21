@@ -40,11 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
    <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
    <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?&style=for-the-badge&logo=java&javaColor=yellow"/> 
-   <img alt="Css" src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css&logoColor=white"/>
-      <img alt="Css" src="https://img.shields.io/badge/html%20-%231572B6.svg?&style=for-the-badge&logo=html&logoColor=red"/>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img alt="Css" src="https://img.shields.io/badge/github%20-%231572B6.svg?&style=for-the-badge&logo=github&logoColor=black"/>
-  <img alt="git" src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=black"/>
 </div>
 
 # 📊 GitHub Stats:
