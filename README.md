@@ -15,7 +15,7 @@
 -  🌱 I’m currently learning **Kotlin 🤓 and Android **
 - 📫 How to reach me: [@0kello_sam](https://www.linkedin.com/in/samuel-okello) on linkedin or [@okellosam](https://twitter.com/0kello_sam) on Twitter
 - 🚀 Connect with me [Everywhere](https://linkfree.eddiehub.io/OkelloSam21)
-- ⚡ Fun fact **Im a noob**
+- ⚡ Fun fact **I'm Still Learning**
   <br>
   <br> 
 [![wakatime](https://wakatime.com/badge/user/ecd44c25-8955-4d16-b1db-344849f2b15c.svg)](https://wakatime.com/@ecd44c25-8955-4d16-b1db-344849f2b15c)
