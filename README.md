@@ -1,22 +1,26 @@
+# Samuel Okello
 
-<h1>
-  Ssup!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+## About
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkelloSam21&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkelloSam21&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+I am currently learning Android development, based in Kenya. My focus is on building native Android applications using Kotlin and understanding modern approaches to app architecture, including modularization. Most of my experience comes from self-driven projects and continuous study, as I work towards building a solid foundation in mobile development.
 
-Let's connect :  
-<div id="badges">
-  <a href="https://www.linkedin.com/in/samuel-okello/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/0kello_sam?t=S_PQPVCv7LgRaY9XssLIHA&s=08">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+## Skills
+
+- Kotlin for Android app development
+- Basic understanding of Python, Java, and Ktor (backend framework)
+- Introductory experience with Azure cloud services
+- Version control with Git and GitHub
+
+## Current Work
+
+- Exploring modularization in Android through a private project (ShopSpot) as part of my learning journey.
+
+## Contact
+
+- Email: [samuelokello929@gmail.com](mailto:samuelokello929@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel0kello&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel0kello&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
