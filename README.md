@@ -13,7 +13,7 @@ I am currently learning Android development, based in Kenya. My focus is on buil
 
 ## Current Work
 
-- Exploring modularization in Android through a private project (ShopSpot) as part of my learning journey.
+- Exploring modularization in Android through a public project [shopspot](https://github.com/samuel0kello/ShopSpot) as part of my learning journey.
 
 ## Contact
 
